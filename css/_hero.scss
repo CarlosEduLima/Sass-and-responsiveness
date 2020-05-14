@@ -1,0 +1,24 @@
+section {
+  .hero {
+    margin: 80px 0;
+  }
+  .container {
+    width: 90%;
+    max-width: 980px;
+
+    margin: 40px auto;
+
+    display: flex;
+  }
+  p {
+    color: rgb(75, 75, 75);
+    font-size: 1.8rem;
+    line-height: 3.2rem;
+    font-weight: bold;
+    margin: 10px 0px 0px;
+  }
+  img{
+    width: 500px;
+    height: 400;
+  }
+}
